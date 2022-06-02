@@ -10,7 +10,10 @@ Någon av följande webbläsare krävs
 * google chrome
 * microsoft edge
 * brave
-
+# TODO:
+* Lägga till stöd för brev
+* rensa skit kod
+* m.m
 # instruktioner
 * starta kivra-fetch.ahk 
 * välj webbläsare du vill använda för inloggningen mot kivra
